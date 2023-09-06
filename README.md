@@ -4,7 +4,7 @@ This project was generated with [Angular] and [NodeJS]
 
 ## Check Online 
 
-[Stock Market website demo](http://mayankagrawal.co.in/git_publish/demo_stock_website/)
+[Stock Market website demo](http://stock-market.demo.mayankagrawal.co.in/)
 
 ## Login Credentials
 
